@@ -11,7 +11,7 @@ body, h1, h2, h3, h4, h5, p, ul{
 summary{
   background-color: #00695C;
   color: #ffffff;
-  width: 350px;
+  width: 300px;
   text-align: center;
   float: left;
   padding: 20px 30px 160px 30px;
@@ -19,7 +19,7 @@ summary{
 section{
   background-size: 100%;
   text-align: left;
-  width: 800px;
+  width: 750px;
   border-style: outset;
   margin: 20px 0px 0px 30px;
   padding: 10px;
