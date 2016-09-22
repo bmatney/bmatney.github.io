@@ -19,7 +19,7 @@ summary{
 section{
   background-size: 100%;
   text-align: left;
-  width: 750px;
+  width: 725px;
   border-style: outset;
   margin: 20px 0px 0px 30px;
   padding: 10px;
@@ -32,7 +32,7 @@ section p{
   }
 section img{
   display: inline;
-  margin: 5px 100px 5px 100px;
+  margin: 5px 90px 5px 90px;
   }
 section li{
   margin-left: 10px;
