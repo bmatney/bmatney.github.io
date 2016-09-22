@@ -16,7 +16,7 @@ body, h1, h2, h3, h4, h5, p, ul{
   float: left;
   padding: 20px 30px 160px 30px;
   }
-.experience, .education, .interests{
+section{
   background-size: 100%;
   text-align: left;
   width: 800px;
@@ -26,15 +26,15 @@ body, h1, h2, h3, h4, h5, p, ul{
   background-color: #EEEEEE;
   display: inline-block;
   }
-.experience p, .education p{
+section p{
   display: inline;
   float: right;
   }
-.interests img{
+section img{
   display: inline;
   margin: 5px 100px 5px 100px;
   }
-.experience li, education li{
+section li{
   margin-left: 10px;
   }
 #brianOutside{
