@@ -64,6 +64,10 @@ a{
 #resume{
   display: none;
 }
+#button:hover{ 
+  cursor: pointer; 
+} 
+
 #button img{
   position:absolute;
   left:0;
